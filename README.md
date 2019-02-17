@@ -1,1 +1,1 @@
-# Python_workshop
+# Python_powerworkshop
